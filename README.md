@@ -6,7 +6,7 @@ I'm passionate about creating high-quality websites and applications with a stro
 
 When not working, you're likely to find me immersing myself in the aisles of a bookstore, wandering through a foreign city, or taking a peaceful hike in the mountains or by the sea.
 
-Explore my projects and creative endeavors on my GitHub profile, https://github.com/makekema,  or have a look at my design portfolio, https://magdalena-keller.com.
+Explore also my projects and endeavors for the creative industry and have a look at my portfolio, https://magdalena-keller.com.
 
 <!--
 **makekema/makekema** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
