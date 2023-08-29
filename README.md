@@ -2,9 +2,9 @@
 
 I am first of all dedicated to building things 🧩
 
-I am a Full Stack Developer specializing in key JavaScript technologies like React, Redux, Node, Express, and Koa. 
+Alos, I am a Full Stack Developer specializing in key JavaScript technologies like React, Redux, Node, Express, and Koa. 
 
-I'm passionate about creating high-quality websites and applications with a strong emphasis on user-friendliness. With a background in textile and fashion design, I bring a unique and creative perspective to my work. 
+I'm truely passionate about creating high-quality websites and applications with a strong emphasis on user-friendliness. With a background in textile and fashion design, I bring a unique and creative perspective to my work. 
 
 When not working, you're likely to find me immersing myself in the aisles of a bookstore, wandering through a foreign city, or taking a peaceful hike in the mountains or by the sea.
 
