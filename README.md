@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am, first of all, dedicated to building things 🧩
+I am first of all dedicated to building things 🧩
 
 Also, I am a Full Stack Developer specializing in key JavaScript technologies like React, Redux, Node, Express, and Koa. 
 
