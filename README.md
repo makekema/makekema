@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Dedicated to building things 🧩
+
 I am a Full Stack Developer specializing in key JavaScript technologies like React, Redux, Node, Express, and Koa. 
 
 I'm passionate about creating high-quality websites and applications with a strong emphasis on user-friendliness. With a background in textile and fashion design, I bring a unique and creative perspective to my work. 
