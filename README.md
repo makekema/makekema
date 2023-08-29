@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I am first of all dedicated to building things 🧩
+I am, first of all, dedicated to building things 🧩
 
-Alos, I am a Full Stack Developer specializing in key JavaScript technologies like React, Redux, Node, Express, and Koa. 
+Also, I am a Full Stack Developer specializing in key JavaScript technologies like React, Redux, Node, Express, and Koa. 
 
 I'm truely passionate about creating high-quality websites and applications with a strong emphasis on user-friendliness. With a background in textile and fashion design, I bring a unique and creative perspective to my work. 
 
